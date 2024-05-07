@@ -10,3 +10,6 @@ eureka.instance.hostname=localhost
 server.port=8000
 
 and @enableEurekaServer
+
+run application 
+localhost:8080
