@@ -13,3 +13,5 @@ and @enableEurekaServer
 
 run application 
 localhost:8080
+
+registed the application on eureka server as clinet 
