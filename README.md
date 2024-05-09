@@ -15,3 +15,4 @@ run application
 localhost:8080
 
 registed the application on eureka server as clinet 
+go to specific user and service then @EnableDiscoveryClient use then apply and run the program 
